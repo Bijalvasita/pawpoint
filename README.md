@@ -1,16 +1,37 @@
-# pawpoint
+# Paw Point - Pet Adoption & Care Management App
 
-A new Flutter project.
+**Paw Point** is a Flutter-based mobile application designed to streamline pet adoption and pet care management. The app provides a complete solution for animal shelters, pet owners, and potential adopters with features like:
 
-## Getting Started
+- 📱 Multi-platform support (Android/iOS)
+- 📅 Adoption management system
+- 🐕 Pet profile tracking
+- 🔔 Care reminders
+- 🏠 Shelter management tools
+- 🔒 Secure user authentication
+- 📊 Health and vaccination records
+- 🗂 Local storage with SharedPreferences
 
-This project is a starting point for a Flutter application.
+## Key Features
 
-A few resources to get you started if this is your first Flutter project:
+### For Shelters
+- Digital pet inventory management
+- Adoption application processing
+- Foster care coordination
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### For Pet Owners
+- Medical record tracking
+- Vaccination reminders
+- Veterinary appointment scheduling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### For Adopters
+- Browse adoptable pets
+- Submit applications
+- Schedule meet-and-greets
+
+Built with: 
+- **Flutter** (Dart)
+- **SharedPreferences** for local storage
+- **Provider** for state management
+- **Firebase** (optional backend)
+
+Contribution guidelines coming soon!
